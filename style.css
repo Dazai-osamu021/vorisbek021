@@ -1,0 +1,96 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    
+}
+button{
+    width: 120px;
+    height: 50px;
+    background-color: orangered;
+    border: none;
+}
+main div {
+}
+.iftor{
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+
+}
+.iftor h1{
+    align-items: center;
+    width: 530px;
+    height: 50%;
+    font-size: 75px;
+}
+span{
+    
+    color: orangered;
+}
+.iftor p {
+    font-size: 28px;
+}
+.taks{
+    display: flex;
+    font-size: 36px;
+}
+.rec{
+    font-size: 30px;
+}
+
+.alive{
+    margin-left: 561px;
+    font-size: 36px;
+}
+.fast div{
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ width: 380px;
+}
+.strela{
+    border-radius: 20px;
+    border-bottom-right-radius: 0;
+}
+.rampage{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mobile{
+    display: flex;
+
+}
+.ger{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+}
+footer{
+    background-color: orangered;
+    color: white;
+    width: 1170px;
+    height: 312px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+.rain{
+    margin-left: 370px;
+}
+input{
+    margin-left: 400px;
+    color: black;
+    background-color: rgb(252, 240, 240);
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+}
+.nic{
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: orange;
+    color: white; 
+                              
+}
